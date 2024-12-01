@@ -17,6 +17,7 @@
 <a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <a href='https://axios-http.com/kr/docs/intro'>![js](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white)</a>
+<a href='https://tanstack.com/query/latest/overview'>![js](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=React&logoColor=white)</a>
 <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 <a href='https://chakra-ui.com/'>![chakra-ui](https://img.shields.io/badge/chakra--ui-47C5FB?style=flat&logo=chakra-ui&logoColor=white)</a>
