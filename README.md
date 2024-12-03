@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>2024.02 ~ 2024.03</td>
-    <td><a href="https://github.com/rudtj/pnu_campus">부산대학교 밀양캠퍼스 앱</a></td>
+    <td><a href="https://github.com/rudtj/pnu_campus">부산대학교 밀양캠퍼스 앱</a></td>
     <td></td>
   </tr>
   <tr>
