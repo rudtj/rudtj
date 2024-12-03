@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=feb9c6&height=150&section=header&text=Kyoungseo's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=feb9c6&height=150&section=header&text=Kyoungseo's%20GitHub&fontSize=42&fontColor=FFFFFF" />
 
 
 <h3>안녕하세요! 프론트엔드 개발자 이경서입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
