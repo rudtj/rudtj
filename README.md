@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=feb9c6&height=150&section=header&text=Kyoungseo's%20GitHub&fontSize=42" />
 
 
-<h3>안녕하세요! 프론트엔드 개발자 이경서입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+<h3>안녕하세요! 프론트엔드 개발자 이경서입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3><br><br>
 📚 Languages / Library / Tools 📚<br><br>
 
@@ -34,6 +34,11 @@
     <th style="width: 30%;">기간</th>
     <th style="width: 40%;">프로젝트명</th>
     <th style="width: 30%;">소속</th>
+  </tr>
+  <tr>
+    <td>2024.02 ~ 2024.03</td>
+    <td><a href="https://github.com/rudtj/pnu_campus">부산대학교 밀양캠퍼스 앱</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>2024.03 ~ 2024.10</td>
