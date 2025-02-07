@@ -36,8 +36,13 @@
     <th style="width: 30%;">소속</th>
   </tr>
   <tr>
-    <td>2024.02 ~ 2024.03</td>
-    <td><a href="https://github.com/rudtj/pnu_campus">부산대학교 밀양캠퍼스 앱</a></td>
+    <td>2024.09 ~ 2024.11</td>
+    <td><a href="https://github.com/kakao-tech-campus-2nd-step3/Team10_FE">품앗이</a></td>
+    <td>카카오테크캠퍼스</td>
+  </tr>
+  <tr>
+    <td>2024.05 ~ 2024.08</td>
+    <td><a href="https://github.com/The-5th-PNU-Convergence-SW-Hackathon/PNUSW-2024-team-07">Familing</a></td>
     <td></td>
   </tr>
   <tr>
@@ -46,14 +51,9 @@
     <td></td>
   </tr>
   <tr>
-    <td>2024.05 ~ 2024.08</td>
-    <td><a href="https://github.com/The-5th-PNU-Convergence-SW-Hackathon/PNUSW-2024-team-07">Familing</a></td>
-    <td>피누</td>
-  </tr>
-    <tr>
-    <td>2024.09 ~ 2024.11</td>
-    <td><a href="https://github.com/kakao-tech-campus-2nd-step3/Team10_FE">품앗이</a></td>
-    <td>카카오테크캠퍼스</td>
+    <td>2024.02 ~ 2024.03</td>
+    <td><a href="https://github.com/rudtj/pnu_campus">부산대학교 밀양캠퍼스 앱</a></td>
+    <td></td>
   </tr>
 </table>
 
