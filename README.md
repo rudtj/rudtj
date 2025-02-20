@@ -3,6 +3,11 @@
 
 
 <h3>안녕하세요! 프론트엔드 개발자 이경서입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+
+<br><br>
+
+[👉 포트폴리오 보러가기](https://www.miricanvas.com/v/147ua1s)
+
 </h3><br><br>
 📚 Languages / Library / Tools 📚<br><br>
 
@@ -48,11 +53,6 @@
   <tr>
     <td>2024.03 ~ 2024.10</td>
     <td><a href="https://github.com/Sursim/FE">SurSim(SurveySimple)</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2024.02 ~ 2024.03</td>
-    <td><a href="https://github.com/rudtj/pnu_campus">부산대학교 밀양캠퍼스 앱</a></td>
     <td></td>
   </tr>
 </table>
