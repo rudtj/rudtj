@@ -6,8 +6,6 @@
 
 <br><br>
 
-[👉 포트폴리오 보러가기](https://www.miricanvas.com/v/147ua1s)
-
 </h3><br><br>
 📚 Languages / Library / Tools 📚<br><br>
 
